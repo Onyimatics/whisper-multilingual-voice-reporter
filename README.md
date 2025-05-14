@@ -16,6 +16,9 @@ This project allows users to upload a voice note in any supported language, and 
 
 ---
 
+## 📸 Screenshots
+![Demo](demo.png)
+
 ## 🎯 Use Case
 
 This app simulates a multilingual civic feedback system.  
